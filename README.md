@@ -1,4 +1,4 @@
-# SupermarketCustomerCapstone2
+# Supermarket customer segmentation with EDA + Kmeans
 
 Analisis Kepribadian Pelanggan adalah analisis rinci tentang pelanggan ideal suatu perusahaan.
 Ini membantu bisnis untuk lebih memahami pelanggannya dan memudahkan mereka untuk memodifikasi produk sesuai dengan kebutuhan, perilaku, dan kekhawatiran spesifik dari berbagai jenis pelanggan.
